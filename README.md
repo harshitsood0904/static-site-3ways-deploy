@@ -46,6 +46,7 @@ my-static-site/
 5. Choose the appropriate region (e.g., `us-east-1`).
 6. **Uncheck** “Block all public access” under **Object Ownership** → Permissions.
 7. Click **Create Bucket**.
+8. ![Create S3 Bucket](https://github.com/harshitsood0904/static-website-deploy-S3/blob/main/Images/Bucket.png)
 
 ---
 
